@@ -80,3 +80,15 @@ button:hover {
   font-size: 14px;
   color: #666;
 }
+
+
+.level-selector {
+  margin-bottom: 15px;
+}
+
+select {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: white;
+}
